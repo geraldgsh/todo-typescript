@@ -6,7 +6,7 @@ Sample React + Typescript todo app with context
 
 ### Built With
 
-- [![React][react.js]][react-url]
+- React
 
 <!-- GETTING STARTED -->
 
